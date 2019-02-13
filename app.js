@@ -21,6 +21,6 @@ streamOpts = {
 const comments = client.CommentStream(streamOpts)
 
 comments.on('comment', comment => {
-    console.log(comment.body)
-    comment.reply('test')
+    console.log(comment)
+    comment.link_author !== 'vegan_fallacy_bot' && comment.reply('test')
 })
