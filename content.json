@@ -1,0 +1,24 @@
+{
+    "fallacies": {
+        "intelligence" : {
+            "header" : "Animals Are Not Intelligent Enough to Matter",
+            "fallacy" : "Animals are not as intellectually or emotionally sophisticated as humans and/or they do not feel pain the way we do, so it is acceptable to kill and eat them.",
+            "response_primary" : "All animals are intellectually and emotionally sophisticated relative to their own species, and many have thoughts and emotions more complex than those of young human children or the mentally disabled. Even so, it is not logical or equitable to withhold ethical considerations from individuals whom we imagine think or feel differently than we do.",
+            "response_secondary" : "We uphold the basic rights of humans who do not reach certain intellectual and emotional benchmarks, so it is only logical that we should uphold these rights for all sentient beings. Denying them to non-human animals is base speciesism and, therefore, ethically indefensible. Further, it is problematic to assert that intelligence and emotional capacity exist on a linear scale where insects occupy one end and humans occupy the other. For example, bees are experts in the language of dance and communicate all sorts of things with it. Should humans who cannot communicate through interpretive dance be considered less intelligent than bees? Finally, even if an intellectual or emotional benchmark were justification for killing a sentient being, there is no scientific support for the claim that a capacity for intelligence or emotion equals a capacity for suffering. In fact, there is a great deal of scientific support for just the opposite; that because non-human animals do not possess the ability to contextualize their suffering as humans do, that suffering is much greater.",
+            "link" : "https://yourveganfallacyis.com/en/animals-are-not-intelligent-enough-to-matter",
+            "resources": [
+                [
+                    "Thinking Pigs: A Comparative Review of Cognition, Emotion, and Personality in Sus domesticus",
+                    "https://escholarship.org/uc/item/8sx4s79c"
+                ],[
+                    "The Psychology of Cows",
+                    "http://animalbehaviorandcognition.org/uploads/journals/17/AB&C_2017_Vol4(4)_Marino_Allen.pdf"
+                ],[
+                    "Thinking chickens: a review of cognition, emotion, and behavior in the domestic chicken",
+                    "https://link.springer.com/article/10.1007/s10071-016-1064-4"
+                ]
+
+            ]
+        }
+    }
+}

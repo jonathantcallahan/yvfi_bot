@@ -22,5 +22,5 @@ const comments = client.CommentStream(streamOpts)
 
 comments.on('comment', comment => {
     console.log(comment)
-    comment.link_author !== 'vegan_fallacy_bot' && comment.reply('test')
+    if(comment.link_author !== 'vegan_fallacy_bot' || comment.body.includes('test')) comment.reply('response')
 })
